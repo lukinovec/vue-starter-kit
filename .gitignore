@@ -7,6 +7,7 @@
 /storage/*.key
 /storage/pail
 /vendor
+.DS_Store
 .env
 .env.backup
 .env.production
@@ -22,3 +23,19 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+/.agents
+/.amp
+/.claude
+/.codex
+/.cursor
+/.factory
+/.grok
+/.junie
+/.kiro
+/.pi
+/.mcp.json
+/AGENTS.md
+/CLAUDE.md
+/boost.json
+/opencode.json
+/opencode.jsonc
